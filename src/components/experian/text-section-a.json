@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_experian_text_section_as",
+  "info": {
+    "displayName": "Text Section",
+    "icon": "bulletList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}

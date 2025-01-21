@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_experian_block_sections",
+  "info": {
+    "displayName": "Block Section",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "block_background_color": {
+      "type": "string",
+      "default": "#0f1e3d"
+    },
+    "button_width": {
+      "type": "integer",
+      "default": 280
+    },
+    "button_text": {
+      "type": "string",
+      "default": "Start Experian Boost"
+    }
+  }
+}
